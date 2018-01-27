@@ -1,0 +1,2 @@
+- name: clone FlameGraph
+  git: repo=https://github.com/brendangregg/FlameGraph.git dest=/opt/FlameGraph
